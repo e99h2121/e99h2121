@@ -4,6 +4,7 @@
 
 This is YAMADA as e99h2121's repository. 
 
+<a href="https://www.buymeacoffee.com/e99h2121" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 12px !important;width: 54px !important;" ></a>
 
 <!--
 **e99h2121/e99h2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
