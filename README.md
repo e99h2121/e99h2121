@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/e99h2121)
 
 ## Hi there 👋
 
